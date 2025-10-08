@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dendrogram","l":"LoadDendrogramFromFile"},{"p":"<Unnamed>","l":"MainTest"},{"p":"dendrogram","l":"MineDendrogram"},{"p":"dendrogram","l":"MineDendrogram2"},{"p":"choices","l":"StartUp"},{"p":"choices","l":"TableInsertion"}];updateSearchResults();
